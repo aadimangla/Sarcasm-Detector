@@ -206,7 +206,7 @@ Project Link: [https://github.com/aadimangla/Sarcasm-Detector](https://github.co
 [issues-shield]: https://img.shields.io/github/issues/aadimangla/Sarcasm-Detector.svg?style=flat-square
 [issues-url]: https://github.com/aadimangla/Sarcasm-Detector/issues
 [license-shield]: https://img.shields.io/github/license/aadimangla/Sarcasm-Detector.svg?style=flat-square
-[license-url]: https://github.com/aadimangla/Sarcasm-Detector/blob/master/LICENSE
+[license-url]: https://github.com/aadimangla/Sarcasm-Detector/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/aadimangla
 [product-screenshot]: images/screenshot.png
